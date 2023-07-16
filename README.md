@@ -34,7 +34,7 @@ If you don't have it, you can download it here:
 After the installation, you're ready to go.
 
 ### 1 - Clone the repository
-`git clone link`
+`git clone https://github.com/R3ddy95/BookHunters.git`
 ### 2 - Install the dependencies
 `npm install`
 ### 3 - Build it!
@@ -46,7 +46,7 @@ Check out for index.html in the /dist folder.
 
 ##  Try it!
 Elsewhere, you can simply try it here:
-[Best Cities To Live](https://bestcitiestolive.netlify.app/)
+[Book Hunters](https://r3ddy95.github.io/BookHunters/)
 
 ##  License
 [MIT](https://choosealicense.com/licenses/mit/)
